@@ -15,13 +15,18 @@ MQTT-enabled motorized curtain track based on ESP8266.
 |Limit stop switch|20x11mm micro switch|1|
 
 ### Screws and nuts
-
+|Part|Quantity|
+|----|--------|
+|M3x8mm|4|
+|M4x8mm|8|
+|M4x25mm|2|
+|M4x18mm (idler w/ flanged bearing) or M5x18mm (idler w/ pulley)|
 ### Hardware
 |Part|Description|Quantity|
 |----|-----------|--------|
 |20x20 B-type slot 6 profile|Profile to desired length. Optional type 3N (one of the sides is closed) for better aesthetics.|1|
 |GT2 timing belt|6mm steel-core timing belt|1|
-|Idler pulley|20T no teeth (bore 5mm) or 2xMF137ZZ flanged bearings|1|
+|Idler pulley|20T no teeth (bore 5mm) or 2xMF137ZZ flanged bearings (allow for a closed idler bracket, more aesthetically pleasing)|1|
 |Timing pulley|20T|1|
 
 ### 3D-printed parts
@@ -44,4 +49,5 @@ All parts have been ordered from AliExpress except for the aluminium profile and
 |----|-----------|--------|
 |Using A4988|21€|8€|
 |Using TMC2209|25€|8€|
+
 For example if you need a 2m track, the overall cost using the TMC2209 would be 25+2x8=41€.

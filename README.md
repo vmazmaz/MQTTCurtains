@@ -8,7 +8,7 @@ MQTT-enabled motorized curtain track based on ESP8266.
 |Part|Description|Quantity|
 |----|-----------|--------|
 |Wemos D1 mini|ESP8266 developpment board|1|
-|TMC2209/A4988|Stepper motor driver. TMC2209 are significantly quieter (and run marginally cooler)|1|
+|TMC2209 or A4988|Stepper motor driver. TMC2209 are significantly quieter (and run marginally cooler)|1|
 |Nema17|Stepper motor|1|
 |12V Power Supply|3A (36W) or more|1| 
 |100uF capacitor |100uF/35V|1|

@@ -8,7 +8,7 @@ MQTT-enabled motorized curtain track based on ESP8266.
 |Part|Description|Quantity|
 |----|-----------|--------|
 |Wemos D1 mini|ESP8266 developpment board|1|
-|TMC2209/A4988|Stepper motor driver|1|
+|TMC2209/A4988|Stepper motor driver. TMC2209 are significantly quieter (and run marginally cooler)|1|
 |Nema17|Stepper motor|1|
 |12V Power Supply|3A (36W) or more|1| 
 |100uF capacitor |100uF/35V|1|
@@ -30,9 +30,18 @@ MQTT-enabled motorized curtain track based on ESP8266.
 |A|Motor bracket|1|
 |B|Slider|1|
 |C|Belt fastener|1|
-|D|Idler pulley holder|1|
-|E|Ceiling bracket|2|
-|F|Limit stop switch bracket
-|G1|Upper motor case
-|G2|Lower motor case
-@@
+|D|Slider hooks|10-20|
+|EA|Idler bracket with idler pulley|1|
+|EB|Idler bracket with flanged bearings|1|
+|EB1|Bearing bushing for flanged bearings|1|
+|F|Ceiling bracket|2|
+|G|Limit stop switch bracket|1|
+|H1|Upper motor case|1|
+|H2|Lower motor case|1|
+### Cost
+All parts have been ordered from AliExpress except for the aluminium profile and stepper motors. The curtains themsleves is not included in the overall cost as this motorized curtain track aims at reusing exisitng curtains. In order to get an accurate estimate of the cost, it is important to distinguisg parts that depend on the length of the curtain track you need from the ones that don't. Typically, the former category includes the aluminium profile as well as the timing belt.
+|Option|Fixed cost|Additional cost per meter|
+|----|-----------|--------|
+|Using A4988|21€|8€|
+|Using TMC2209|25€|8€|
+For example if you need a 2m track, the overall cost using the TMC2209 would be 25+2x8=41€.

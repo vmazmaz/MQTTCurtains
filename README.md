@@ -44,10 +44,10 @@ MQTT-enabled motorized curtain track based on ESP8266.
 |H1|Upper motor case|1|
 |H2|Lower motor case|1|
 ### Cost
-All parts have been ordered from AliExpress except for the aluminium profile and stepper motors. The curtains themsleves is not included in the overall cost as this motorized curtain track aims at reusing exisitng curtains. In order to get an accurate estimate of the cost, it is important to distinguisg parts that depend on the length of the curtain track you need from the ones that don't. Typically, the former category includes the aluminium profile as well as the timing belt.
+All parts have been ordered from AliExpress except for the aluminium profile and stepper motors. The curtains themsleves is not included in the overall cost as this motorized curtain track aims at reusing exisitng curtains. In order to get an accurate estimate of the cost, it is important to distinguisg parts that depend on the length of the curtain track you need from the ones that don't. Typically, the former category includes the aluminium profile and the timing belt.
 |Option|Fixed cost|Additional cost per meter|
 |----|-----------|--------|
 |Using A4988|21€|8€|
 |Using TMC2209|25€|8€|
 
-For example if you need a 2m track, the overall cost using the TMC2209 would be 25+2x8=41€.
+For example if you need a 2m track, the overall cost for the TMC2209 option would be 25+2x8=41€.

@@ -2,6 +2,7 @@
 MQTT-enabled motorized curtain track based on ESP8266.
 
 ## Presentation
+This project is a DIY alternative to system like 
 Features:
 - Robust design
 - MQTT and Homeassistant auto-discovery enabled

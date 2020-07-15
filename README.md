@@ -1,6 +1,8 @@
 # MQTTCurtains
 MQTT-enabled motorized curtain track based on ESP8266, Nema17 and 20x20 profile.
 
+For bill of material and assembly instructions, see the [wiki](https://github.com/vmazmaz/MQTTCurtains/wiki).
+
 ## Presentation
 This project is a low-cost alternative to the Aqara motorized curtains. It was also inspired by the excellent [MorningRod](https://coverobotics.com/products/morningrod) by Daniel Frenkel.
 My goal was to develop a smart curtaint track that seamlessly integrates with my exisiting Homeassistant installation, controlled by an ESP8266 and that can be built using standard hardware. MQTT was the perfectly indicated protocol for this use case. I purposely chose to handle automations on Homeassistant and not direclty implement them in the code. Using existing your existing temperature & luminosity sensors you can for instance create simple automations to open and close your curtains when the sun is shining on your windows. And of course, use them for a smooth morning wake-up ! 
@@ -16,9 +18,9 @@ Features include:
 - (Optional) Physical buttons for simplicity of use and/or in case of wifi outtage. 
 
 ## Variants
-This motorrized curtain tracks is declined in 2 versions, that only differ by 3 small 3D-printed pieces and a few screws and nuts. The first only supports single action while the second offers double action as well. You can get more details in the corresponding page in the wiki.
+This motorrized curtain tracks is declined in 2 versions, that only differ by 3 small 3D-printed pieces and a few screws and nuts. The first variant only move a curtain from one side to the other while the second can move curtains on either side of the track to the center. You can get more details in the [corresponding page in the wiki](https://github.com/vmazmaz/MQTTCurtains/wiki/Variants-:-Single-action-vs-dual-action).
 
 ## Other info
-You will find all the info you need to build your own in the wiki.
+You will find all the info you need to build your own in the [wiki](https://github.com/vmazmaz/MQTTCurtains/wiki).
 
 I you have a question or you're encountering an issue, don hesitate to open an issue and I'll see what I can do.

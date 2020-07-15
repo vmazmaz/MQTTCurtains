@@ -1,7 +1,7 @@
 # MQTTCurtains
 MQTT-enabled motorized curtain track based on ESP8266, Nema17 and 20x20 profile.
 
-For bill of material and assembly instructions, see the [wiki](https://github.com/vmazmaz/MQTTCurtains/wiki).
+For bill of materials and assembly instructions, see the [wiki](https://github.com/vmazmaz/MQTTCurtains/wiki).
 
 ## Presentation
 This project is a low-cost alternative to the Aqara motorized curtains. It was also inspired by the excellent [MorningRod](https://coverobotics.com/products/morningrod) by Daniel Frenkel.

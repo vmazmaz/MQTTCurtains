@@ -23,4 +23,4 @@ This motorized curtain tracks is declined in 2 versions, that only differ by 3 s
 ## Other info
 You will find all the info you need to build your own in the [wiki](https://github.com/vmazmaz/MQTTCurtains/wiki).
 
-I you have a question or you're encountering an issue, don hesitate to open an issue and I'll see what I can do.
+I you have a question or you're encountering an issue, don't hesitate to open an issue and I'll see what I can do.

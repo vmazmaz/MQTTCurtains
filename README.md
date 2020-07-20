@@ -15,7 +15,7 @@ Features include:
 - Low power usage
 - (Optional) Automatic-calibration on boot (e.g. after a power outtage)
 - (Optional) Quiet (using TMC2209 drivers)
-- (Optional) Controllable with a RF 433Mh remote for added compatibillity and/or in case of wifi outtage
+- (Optional) Controllable with a 433Mh remote/switch for added compatibillity and/or in case of wifi outtage
 
 ## Variants
 This motorrized curtain tracks is declined in 2 versions, that only differ by 3 small 3D-printed pieces and a few screws and nuts. The first variant only move a curtain from one side to the other while the second can move curtains on either side of the track to the center. You can get more details in the [corresponding page in the wiki](https://github.com/vmazmaz/MQTTCurtains/wiki/Variants-:-Single-action-vs-dual-action).

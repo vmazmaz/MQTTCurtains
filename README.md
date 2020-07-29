@@ -1,6 +1,6 @@
 # MQTTCurtains
 MQTT-enabled motorized curtain track based on ESP8266, Nema17 and 20x20 profile.
-![overview_composite](https://user-images.githubusercontent.com/55983655/88698773-c8f91f00-d106-11ea-94a6-d9cea0568e8e.png)
+![overview_composite](https://user-images.githubusercontent.com/55983655/88792039-ef689a00-d19a-11ea-8f56-401b3b2ca99d.png)
 For bill of materials and assembly instructions, see the [wiki](https://github.com/vmazmaz/MQTTCurtains/wiki).
 
 ## Presentation
